@@ -1,9 +1,0 @@
-{
-  "name": "my-awesome-chrome-extension",
-  "version": "1.0.0",
-  "description": "I don't know what this thing will do yet!",
-  "main": "index.js",
-  "repository": "https://github.com/luke-m/chrome-ext.git",
-  "author": "Lukas Müller",
-  "license": "MIT"
-}
